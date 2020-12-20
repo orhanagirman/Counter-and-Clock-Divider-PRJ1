@@ -1,0 +1,3 @@
+attribute LOC : string;
+attribute LOC of <name>: signal is "<value>";
+attribute LOC of <bus_name>: signal is "<value> <value>";
